@@ -6,7 +6,8 @@ FN:Niki’s Pizza
 TEL;type=WORK;type=VOICE;type=pref:(772) 205-2099
 item1.ADR;type=WORK;type=pref:;;1436 Old Dixie Hwy\nSuite D;Vero Beach;FL;32960;United States
 item1.X-ABADR:us
-X-SOCIALPROFILE;type=facebook:http://www.facebook.com/https%3A//www.facebook.com/share/1KYf2xLXSL/%3Fmibextid=wwXIfr
+item2.URL;type=pref:https://www.facebook.com/share/1KYf2xLXSL/?mibextid=wwXIfr
+item2.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:AAAAJGZ0eXBoZWljAAAAAG1pZjFNaVBybWlhZk1pSEJoZWljAAABhG1ldG
  EAAAAAAAAAIWhkbHIAAAAAAAAAAHBpY3QAAAAAAAAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAA
  AAAAAAABAAAADHVybCAAAAABAAAADnBpdG0AAAAAAAEAAAAjaWluZgAAAAAAAQAAABVpbmZlAg
